@@ -1,0 +1,3 @@
+packer*
+chef/encrypted_data_bag_secret
+chef/jamesawesome-validator.pem
